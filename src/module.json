@@ -73,11 +73,11 @@
     }
   ],
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": 9,
     "verified": 9,
-    "maximum": 9
+    "maximum": 10
   },
   "url": "https://github.com/p4535992/conditional-visibility",
   "manifest": "https://github.com/p4535992/conditional-visibility/releases/latest/download/module.json",
